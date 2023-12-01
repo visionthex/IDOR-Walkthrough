@@ -5,7 +5,10 @@ As you go through the site you can see that each door goes to a different room. 
 
 No alt text provided for this image
 Each room corresponds with a hash value like this: Starting from left to right.
-[![Door Badge](https://img.shields.io/badge/Door 1:-c4ca4238a0b923820dcc509a6f75849b-blue)](https://shields.io/)
+[![Door Badge](https://img.shields.io/badge/Door1:-c4ca4238a0b923820dcc509a6f75849b-blue)](https://shields.io/)
+
+[![Door Badge](https://img.shields.io/badge/Door-a32448734sg908734-blue)](https://shields.io/)
+
  - Door 1: `c4ca4238a0b923820dcc509a6f75849b`
  - Door 2: `c81e728d9d4c2f636f067f89cc14862c`
  - Door 3: `eccbc87e4b5ce2fe28308fd9f2a7baf3`
