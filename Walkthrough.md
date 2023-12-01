@@ -66,8 +66,8 @@ Now that we came up with the same hash value as Door 1 we can now use different 
 
 No alt text provided for this image
 
- - `cfcd208495d565ef66e7dff9f98764da:0`
- - `aab3238922bcc25a6f606eb525ffdc56:14`
+ - [![Door Badge](https://img.shields.io/badge/Door_0:-45c48cce2e2d7fbdea1afc51c7c6ad26:0-orange)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_14:-aab3238922bcc25a6f606eb525ffdc56:14-orange)](https://shields.io/)
 
 Now that we have done that, we can test it against the site and see what we come up with.
 
