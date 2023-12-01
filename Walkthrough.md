@@ -34,7 +34,7 @@ The source code is still showing only a total of 13 doors as well. After digging
 
 No alt text provided for this image
 
-This was showing a SHA384 encryption. So maybe the rest of the doors are also using some sort of encryption method as well. Doing some Googleing on encryption and hashing. I was able to find this link here.
+This was showing a SHA384 encryption. So maybe the rest of the doors are also using some sort of encryption method as well. Doing some Googleing on encryption and hashing. I was able to find this link here  [Hashes](https://hashes.com/en/tools/hash_identifier).
 
 We can submit the hash values into the search bar in Hash Type Identifier and see what we come up with.
 
