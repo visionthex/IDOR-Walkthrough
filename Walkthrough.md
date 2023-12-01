@@ -43,19 +43,20 @@ No alt text provided for this image
 After finding out it is using a MD5 encryption we can start using that with the doors and see what the results would be. I was able to go back to the home page of Hashes.com and search my results for Door 13. The results came back with `c9f0f895fb98ab9159f51fd0297e236d:8`. This would mean that each door is using a MD5 encryption the result in a single digit. This would mean that each single digit would corresponds to an MD5 hash.
 
 So, let's submit each door and see what numbers correspond to what MD5 hash.
- - Door 1: `c4ca4238a0b923820dcc509a6f75849b:1`
- - Door 2: `c81e728d9d4c2f636f067f89cc14862c:2`
- - Door 3: `eccbc87e4b5ce2fe28308fd9f2a7baf3:3`
- - Door 4: `a87ff679a2f3e71d9181a67b7542122c:4`
- - Door 5: `e4da3b7fbbce2345d7772b0674a318d5:5`
- - Door 6: `1679091c5a880faf6fb5e6087eb1b2dc:6`
- - Center Door: `8f14e45fceea167a5a36dedd4bea2543:7`
- - Door 8: `c51ce410c124a10e0db5e4b97fc2af39:13`
- - Door 9: `c20ad4d76fe97759aa27a0c99bff6710:12`
- - Door 10: `6512bd43d9caa6e02c990b0a82652dca:11`
- - Door 11: `d3d9446802a44259755d38e6d163e820:10`
- - Door 12: `45c48cce2e2d7fbdea1afc51c7c6ad26:9`
- - Door 13: `c9f0f895fb98ab9159f51fd0297e236d:8`
+
+ - [![Door Badge](https://img.shields.io/badge/Door_1:-c4ca4238a0b923820dcc509a6f75849b:1-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_2:-c81e728d9d4c2f636f067f89cc14862c:2-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_3:-eccbc87e4b5ce2fe28308fd9f2a7baf3:3-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_4:-a87ff679a2f3e71d9181a67b7542122c:4-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_5:-e4da3b7fbbce2345d7772b0674a318d5:5-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_6:-1679091c5a880faf6fb5e6087eb1b2dc:6-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Center_Door:-8f14e45fceea167a5a36dedd4bea2543:7-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_8:-c51ce410c124a10e0db5e4b97fc2af39:8-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_9:-c20ad4d76fe97759aa27a0c99bff6710:9-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_10:-6512bd43d9caa6e02c990b0a82652dca:10-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_11:-d3d9446802a44259755d38e6d163e820:11-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_12:-45c48cce2e2d7fbdea1afc51c7c6ad26:12-red)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_13:-c9f0f895fb98ab9159f51fd0297e236d:13-red)](https://shields.io/)
 
 Now that we have done that the next this is to find out what number beyond 1 - 13 can we use to access a different room. The two numbers we can use is 14 and 0. We would need to add those numbers to a MD5 Hash in order to get their value. I would use the terminal on Linux in order to get a MD5 value with the string of values.
 
