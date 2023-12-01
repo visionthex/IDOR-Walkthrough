@@ -64,8 +64,8 @@ Now that we came up with the same hash value as Door 1 we can now use different 
 
 No alt text provided for this image
 
- - cfcd208495d565ef66e7dff9f98764da:0
- - aab3238922bcc25a6f606eb525ffdc56:14
+ - `cfcd208495d565ef66e7dff9f98764da:0`
+ - `aab3238922bcc25a6f606eb525ffdc56:14`
 
 Now that we have done that, we can test it against the site and see what we come up with.
 
@@ -78,8 +78,4 @@ We finally found the Flag for the room exercise. From here you would submit the 
 
 I would like to give thanks to John H. for created this room.
 
-https://tryhackme.com/room/corridor
-
-
-We finally found the Flag for the room exercise. From here you would submit the flag and complete the room. This was a great exercise to learn at the same time be able to figure out how to do a write up for this room as well.
-I would like to give thanks to John H. for created this room.
+![tryhackme](https://tryhackme.com/room/corridor)
