@@ -7,19 +7,18 @@ No alt text provided for this image
 Each room corresponds with a hash value like this: Starting from left to right.
 
  - [![Door Badge](https://img.shields.io/badge/Door_1:-c4ca4238a0b923820dcc509a6f75849b-blue)](https://shields.io/)
-
- - Door 2: `c81e728d9d4c2f636f067f89cc14862c`
- - Door 3: `eccbc87e4b5ce2fe28308fd9f2a7baf3`
- - Door 4: `a87ff679a2f3e71d9181a67b7542122c`
- - Door 5: `e4da3b7fbbce2345d7772b0674a318d5`
- - Door 6: `1679091c5a880faf6fb5e6087eb1b2dc`
- - Center Door: `8f14e45fceea167a5a36dedd4bea2543`
- - Door 8: `c51ce410c124a10e0db5e4b97fc2af39`
- - Door 9: `c20ad4d76fe97759aa27a0c99bff6710`
- - Door 10: `6512bd43d9caa6e02c990b0a82652dca`
- - Door 11: `d3d9446802a44259755d38e6d163e820`
- - Door 12: `45c48cce2e2d7fbdea1afc51c7c6ad26`
- - Door 13: `c9f0f895fb98ab9159f51fd0297e236d`
+ - [![Door Badge](https://img.shields.io/badge/Door_2:-c81e728d9d4c2f636f067f89cc14862c-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_3:-eccbc87e4b5ce2fe28308fd9f2a7baf3-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_4:-a87ff679a2f3e71d9181a67b7542122c-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_5:-e4da3b7fbbce2345d7772b0674a318d5-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_6:-1679091c5a880faf6fb5e6087eb1b2dc-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Center_Door:-8f14e45fceea167a5a36dedd4bea2543-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_8:-c51ce410c124a10e0db5e4b97fc2af39-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_9:-c20ad4d76fe97759aa27a0c99bff6710-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_10:-6512bd43d9caa6e02c990b0a82652dca-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_11:-d3d9446802a44259755d38e6d163e820-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_12:-45c48cce2e2d7fbdea1afc51c7c6ad26-blue)](https://shields.io/)
+ - [![Door Badge](https://img.shields.io/badge/Door_13:-c9f0f895fb98ab9159f51fd0297e236d-blue)](https://shields.io/)
 
 Now we have to figure out what this all means and what this information can be used for in a hacker mind set. We can try changing a character and see if we get any results on the webpage. Changing a couple characters on this string for example, `8f14e45fceea167a5a36dedd4bea2543` to `8f14e45fceea167a5a36dedd4bea2577` would respond with:
 
