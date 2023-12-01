@@ -1,5 +1,5 @@
-# Corridor - IDOR Walkthrough
 ![image1](https://github.com/visionthex/IDOR-Walkthrough/blob/main/Images/image1.png)
+# Corridor - IDOR Walkthrough
 [TryHackMe](https://tryhackme.com/room/corridor)
 
 As you go through the site you can see that each door goes to a different room. But each room has a closed off room as shown.
@@ -71,11 +71,11 @@ Now that we came up with the same hash value as Door 1 we can now use different 
 
 Now that we have done that, we can test it against the site and see what we come up with.
 
-![image10](https://github.com/visionthex/IDOR-Walkthrough/blob/main/Images/image10.png)
+![image9](https://github.com/visionthex/IDOR-Walkthrough/blob/main/Images/image9.png)
 
 I came back with a 404 not found message for room 14. Next, we will try room 0 and see what pops up.
 
-![image11](https://github.com/visionthex/IDOR-Walkthrough/blob/main/Images/image11.png)
+![image10](https://github.com/visionthex/IDOR-Walkthrough/blob/main/Images/image10.png)
 
 We finally found the Flag for the room exercise. From here you would submit the flag and complete the room. This was a great exercise to learn at the same time be able to figure out how to do a write up for this room as well.
 
