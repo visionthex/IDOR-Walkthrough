@@ -1,1 +1,0 @@
-# IDOR-Walkthrough
