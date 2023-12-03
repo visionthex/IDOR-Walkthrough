@@ -80,4 +80,5 @@ I came back with a 404 not found message for room 14. Next, we will try room 0 a
 
 We finally found the Flag for the room exercise. From here you would submit the flag and complete the room. This was a great exercise to learn at the same time be able to figure out how to do a write up for this room as well.
 
-I would like to give thanks to [John Hammond](https://www.linkedin.com/in/johnhammond010/) for created this room.
+I would like to give thanks to [![John Hammond](https://img.shields.io/badge/John%20Hammond-1abc9c?style=flat-square)](https://www.linkedin.com/in/johnhammond010/) for created this room.
+
