@@ -1,7 +1,7 @@
 ![image1](https://github.com/visionthex/IDOR-Walkthrough/blob/main/Images/image1.png)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-1abc9c?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/corridor)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-1abc9c?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/room/corridor)
+
 # Corridor - IDOR Walkthrough
-[TryHackMe](https://tryhackme.com/room/corridor)
 
 As you go through the site you can see that each door goes to a different room. But each room has a closed off room as shown.
 
